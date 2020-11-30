@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactsFetcher</string>
+    <string name="contact_list">Список контактов</string>
+    <string name="contact_detail">Детальная информация</string>
+
+    <string name="error">Ошибка</string>
+    <string name="ok">Ок</string>
+
+    <string name="permission_denied">Отказано в чтении контактов. Для корректной работы приложения разрешите приложению доступ к чтению контактов в настройках.</string>
+</resources>
